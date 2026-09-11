@@ -7,17 +7,18 @@ AI Developer | 2nd-year ITS student Hands-on experience turning problems into wo
 
 ## AI engineering + Modular System Design
 
-Requirements
-    ↓
-Data analysis / organization / modeling
-    ↓
-Modular system architecture
-    ↓
-UI/UX  design + frontend implementation
-    ↓
-Integration / validation
-    ↓
+Requirements 
+     ↓ 
+Data analysis / organization / modeling 
+     ↓ 
+Modular system architecture 
+     ↓ 
+UI/UX design + frontend implementation 
+     ↓ 
+Integration / validation 
+     ↓ 
 Demo / MVP
+
 
 
 ## Technical Stack:
