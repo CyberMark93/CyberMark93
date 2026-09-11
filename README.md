@@ -8,8 +8,6 @@ AI Developer | 2nd-year ITS student Hands-on experience turning problems into wo
 ## AI engineering + Modular System Design
 
 Requirements
-
-```text
     ↓
 Data analysis / organization / modeling
     ↓
@@ -19,18 +17,17 @@ UI/UX  design + frontend implementation
     ↓
 Integration / validation
     ↓
-```
-
 Demo / MVP
+
 
 ## Technical Stack:
 
-## \*\*Environment\*\*
+## Environment
 
 - Windows (advanced)
 - Linux / Bash (basic)
 
-## \*\*Tools & Infrastructure\*\*
+## Tools & Infrastructure
 
 - Docker (intermediate)
 - Git (intermediate)
@@ -39,13 +36,13 @@ Demo / MVP
 
 Languages:
 
-```text
+```
 ├── Python — strong project experience + AI experimentation
 ├── JavaScript — project experience
 └── Java — basic
 ```
 
-## \*\*SKILLS:\*\*
+## SKILLS:
 
 Software / AI Engineering:
 
@@ -79,6 +76,6 @@ Independently developed these projects from requirements to MVP prototypes.\*\*
 
 ## ---
 
-- \*\*Location:\*\* Italia
-- \*\*LinkedIn:\*\* \[https://www.linkedin.com/in/marco-negro-187b89383/\]
-- \*\*Email:\*\* ilnegher93@gmail.com
+- Location: Italia
+- LinkedIn: \[https://www.linkedin.com/in/marco-negro-187b89383/\]
+- Email: ilnegher93@gmail.com
