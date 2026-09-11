@@ -1,12 +1,13 @@
 # Hi, I'm Marco 👋
 
-AI Developer | 2nd-year ITS student Hands-on experience turning problems into working MVPs.
+AI Developer | 2nd-year ITS student
+
+Hands-on experience turning problems into working MVPs.
 
 - Machine Learning (project-based experimentation)
 - Deep Learning (project-based experimentation)
 
 ## AI engineering + Modular System Design
-(flowchart)
 
 1) Requirements
 2) Data analysis / organization / modeling
@@ -17,28 +18,28 @@ AI Developer | 2nd-year ITS student Hands-on experience turning problems into wo
 
 
 
-## 🧰 Technical Stack:
+## 🧰 Technical Stack
 
-## Environment
+### Environment
 
 - Windows (advanced)
 - Linux / Bash (basic)
 
-## Tools & Infrastructure
+### Tools & Infrastructure
 
 - Docker (intermediate)
 - Git (intermediate)
 - PostgreSQL (basic)
 - REST APIs (basic)
 
-Languages:
+### Languages
 
 - Python (strong project experience + AI experimentation)
 - JavaScript (project experience)
 - Java (basic)
 
 
-### 🧠 SKILLS:
+## 🧠 SKILLS
 
 Software / AI Engineering:
 
@@ -54,30 +55,34 @@ MVP Backoffice / prototyping (mockup) experience: Authentication (basic) + Autho
 
 
 
-#### PERSONAL PROJECT: 🤖 Local Multi-Agent RAG System
+## PERSONAL PROJECT: 🤖 [Local Multi-Agent RAG System](https://github.com/CyberMark93/RAG_system-multi-agent)
+
 - 100% local, privacy-first RAG assistant over a personal knowledge base — zero cloud, zero API cost.
 - **Engineering highlights:** multi-agent orchestration (CrewAI), pre-retrieval RAG (ChromaDB), local LLMs (Ollama), Docker security hardening (read-only mounts, network isolation, prompt-injection filters), CPU-budget constraints.
 - **Tech stack:** Python, FastAPI, CrewAI, ChromaDB, Ollama, Docker.
+
 
 
 ## 📂 INTERNSHIP PROJECTS: From Requirements → MVP
 
 Independently developed these projects from requirements to MVP prototypes.
 
-### ⚽ \[Backoffice Management System\](https://github.com/CyberMark93/backoffice\_calcio)
+### ⚽ [Backoffice Management System](https://github.com/CyberMark93/backoffice_calcio)
 
 - Management and access-control platform for football facilities and tournaments.
 - Engineering Highlights: Modular architecture, role-based access control (RBAC), and integrated Demo Mode.
 - Tech Stack: Vanilla JavaScript, HTML, CSS, LocalStorage.
 
-### 📦 \[Software Deterministico Doganale - Import Hub\](https://github.com/CyberMark93/backoffice-software\_deterministico\_doganale)
+### 📦 [Software Deterministico Doganale - Import Hub](https://github.com/CyberMark93/backoffice-software\_deterministico_doganale)
 
 - Customs import backoffice for document tracking and conflict resolution.
 - Engineering Highlights: JavaScript document-processing engine for multi-document PDF parsing (Invoice, Packing List, HAWB, ...), data traceability, anomaly reconciliation, and isolated export flow.
 - Tech Stack: Vanilla JavaScript, HTML, CSS, PDF.js, LocalStorage.
 - Prototype: Client-side application with responsive multi-column UI.
 
-### 📫 Contact
+
+## 📫 Contact:
+
 - Location: Italia
-- LinkedIn: [https://www.linkedin.com/in/marco-negro-187b89383/]
+- LinkedIn: [marco-negro](https://www.linkedin.com/in/marco-negro-187b89383/)
 - Email: ilnegher93@gmail.com
