@@ -1,37 +1,47 @@
 # Hi, I'm Marco 👋 
 
-**AI DEVELOPER** ( sudent  2^ year ) 
+AI Developer | 2nd-year ITS student
+(With hands-on experience turning problem into an MVP solutions).
+
+- Machine Learning (project experimentation)
+- Deep Learning (project experimentation)
+
+AI + system design
+
+Requirements
+    ↓
+Data analysis/organization/modeling & dashboard development
+    ↓
+Modular System Architecture Design
+    ↓
+UI/UX  (Design & Frontend implementation)
+    ↓
+Structured demo / MVP Prototype 
+
+Stack: 
+- Windows (advanced)
+- Docker (Intermediate)
+- Git (Intermediate)
+- PostgreSQL (basic)
+- REST API (basic)
+ 
+Languages:
+├── Python — advanced + AI experimentation
+├── Js — project experience
+└── Java — basic
 
 **SKILLS:**
 
-- Windows (avanzato) / Linux & bash (basic);
-- Networking; 
-- Virtualization; (basic)
+Software / AI Engineering:
+AI workflow / assisted development
+LLM integration
+RAG architecture
+Structured prompting
+Agentic systems
+Local LLM experimentation
 
-- AI - native
-- Sviluppo AI & Data: Analisi statistica, gestione Big Data + creazione di dashboard
-
-- Data Management: Progettazione e gestione di database SQL: PostgreSQL (low exp)
-- Container Docker; (intermedio)
-
-- Software engineer;
-- Software architecture; (custom + responsive)
-
-- HTML; (front-end)
-- CSS;
-- JSON;
-- Authentication; (base + RBAC)
-- Workflow CI / CD;
-- UI / UX design; (modular + custom)
-- Data modeling / data organization;
-- MVP development / prototyping; (mockup)
-- Git (version control)
-- Backend architecture;
-- REST API; (low exp)
-
-- Python + Java + Js
-
-- Fondamenti di ML & DL: Conoscenza di Machine Learning + introduzione Deep Learning;
+MVP Backoffice development / prototyping (mockup) experience: 
+Authentication (basic) + Authorization & RBAC (basic)
 
 
 ---
@@ -41,7 +51,7 @@
 #### ⚽ [Backoffice Management System](https://github.com/CyberMark93/backoffice_calcio)
 Piattaforma di gestione e controllo accessi per strutture e tornei sportivi.
 - **Engineering Highlights:** Architettura modulare con gestione avanzata dei permessi utente (RBAC), implementazione + modalità Demo integrata.
-- **Tech Stack:** Vanilla JS, CSS3 Dark Theme, LocalStorage State Management.
+- **Tech Stack:** Vanilla JS, CSS, LocalStorage State Management.
 
 #### 📦 [Software Deterministico Doganale - Import Hub](https://github.com/CyberMark93/backoffice-software_deterministico_doganale)
 Piattaforma di tracciamento e risoluzione conflitti documentali per flussi di importazione doganale.
@@ -51,5 +61,5 @@ Piattaforma di tracciamento e risoluzione conflitti documentali per flussi di im
 ---
 
 - **Location:** Italia
-- **LinkedIn:** [https://www.linkedin.com/in/tuo-profilo](https://www.linkedin.com/in/marco-negro-187b89383/)
+- **LinkedIn:** [https://www.linkedin.com/in/marco-negro-187b89383/]
 - **Email:** ilnegher93@gmail.com
