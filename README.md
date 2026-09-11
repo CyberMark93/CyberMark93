@@ -1,45 +1,42 @@
-
 # Hi, I'm Marco 👋 
 
-AI DEVELOPER ( sudent  2^ year ) 
+**AI DEVELOPER** ( sudent  2^ year ) 
 
-SKILLS: 
+**SKILLS:**
 
-- Windows (avanzato) / Linux & bash (basi)
-- NETworking (intermedio)
-- Virtualization (basi)
+- Windows (avanzato) / Linux & bash (basic);
+- Networking; 
+- Virtualization; (basic)
 
 - AI - native
+- Sviluppo AI & Data: Analisi statistica, gestione Big Data + creazione di dashboard
 
-- Sviluppo AI & Data: Analisi statistica, gestione Big Data + creazione di dashboard (base-intermedio)
-
-- Data Management: Progettazione e gestione di database SQL: PostgreSQL (base + minima esperienza)
+- Data Management: Progettazione e gestione di database SQL: PostgreSQL (low exp)
 - Container Docker; (intermedio)
 
-- Software Engineer;
-- Software Architecture; (Custom Properties, Responsive Architecture)
+- Software engineer;
+- Software architecture; (custom + responsive)
 
 - HTML; (front-end)
 - CSS;
 - JSON;
 - Authentication; (base + RBAC)
 - Workflow CI / CD;
-- UI / UX Design; (Modular)
-- Data Modeling / Data Organization;
-- Application Development;
-- MVP Development / Prototyping; (mockup)
-- Gestione version control con Git; (intermedio)
+- UI / UX design; (modular + custom)
+- Data modeling / data organization;
+- MVP development / prototyping; (mockup)
+- Git (version control)
 - Backend architecture;
-- REST API; (poca esperienza in progetti reali)
+- REST API; (low exp)
 
-- Python & conoscenze basilari di altri linguaggi di OOP (JAVA;JS)
+- Python + Java + Js
 
-- Fondamenti di ML & DL: Conoscenza delle architetture di Machine Learning introduzione al Deep Learning; (base)
+- Fondamenti di ML & DL: Conoscenza di Machine Learning + introduzione Deep Learning;
 
 
 ---
 
-### 📂 **STAGE: da 0 -- a --> MVP  (progetti interamente pensati e realizzati da solo)**
+### 📂 **STAGE: da 0 -- a --> MVP  (Full Lifecycle da SOLO)**
 
 #### ⚽ [Backoffice Management System](https://github.com/CyberMark93/backoffice_calcio)
 Piattaforma di gestione e controllo accessi per strutture e tornei sportivi.
