@@ -17,7 +17,7 @@ AI Developer | 2nd-year ITS student Hands-on experience turning problems into wo
 
 
 
-## Technical Stack:
+## 🧰 Technical Stack:
 
 ## Environment
 
@@ -38,7 +38,7 @@ Languages:
 - Java (basic)
 
 
-## SKILLS:
+### 🧠 SKILLS:
 
 Software / AI Engineering:
 
@@ -51,7 +51,12 @@ Software / AI Engineering:
 
 MVP Backoffice / prototyping (mockup) experience: Authentication (basic) + Authorization & RBAC (basic)
 
-## ---
+
+#### 🤖 Local Multi-Agent RAG System
+- 100% local, privacy-first RAG assistant over a personal knowledge base — zero cloud, zero API cost.
+- **Engineering highlights:** multi-agent orchestration (CrewAI), pre-retrieval RAG (ChromaDB), local LLMs (Ollama), Docker security hardening (read-only mounts, network isolation, prompt-injection filters), CPU-budget constraints.
+- **Tech stack:** Python, FastAPI, CrewAI, ChromaDB, Ollama, Docker.
+
 
 ## 📂 INTERNSHIP PROJECTS: From Requirements → MVP
 
@@ -70,8 +75,7 @@ Independently developed these projects from requirements to MVP prototypes.
 - Tech Stack: Vanilla JavaScript, HTML, CSS, PDF.js, LocalStorage.
 - Prototype: Client-side application with responsive multi-column UI.
 
-## ---
-
+### 📫 Contact
 - Location: Italia
 - LinkedIn: [https://www.linkedin.com/in/marco-negro-187b89383/]
 - Email: ilnegher93@gmail.com
