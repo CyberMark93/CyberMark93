@@ -73,7 +73,7 @@ Independently developed these projects from requirements to MVP prototypes.
 - Engineering Highlights: Modular architecture, role-based access control (RBAC), and integrated Demo Mode.
 - Tech Stack: Vanilla JavaScript, HTML, CSS, LocalStorage.
 
-### 📦 [Software Deterministico Doganale - Import Hub](https://github.com/CyberMark93/backoffice-software\_deterministico_doganale)
+### 📦 [Software Deterministico Doganale - Import Hub](https://github.com/CyberMark93/backoffice-software_deterministico_doganale)
 
 - Customs import backoffice for document tracking and conflict resolution.
 - Engineering Highlights: JavaScript document-processing engine for multi-document PDF parsing (Invoice, Packing List, HAWB, ...), data traceability, anomaly reconciliation, and isolated export flow.
