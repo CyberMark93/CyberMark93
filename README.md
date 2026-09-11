@@ -6,18 +6,14 @@ AI Developer | 2nd-year ITS student Hands-on experience turning problems into wo
 - Deep Learning (project-based experimentation)
 
 ## AI engineering + Modular System Design
+(flowchart)
 
-Requirements
-↓
-Data analysis / organization / modeling
-↓
-Modular system architecture
-↓
-UI/UX design + frontend implementation
-↓
-Integration / validation
-↓
-Demo / MVP
+1) Requirements
+2) Data analysis / organization / modeling
+3) Modular system architecture
+4) UI/UX design + frontend implementation
+5) Integration / validation
+6) Demo / MVP
 
 
 
@@ -37,9 +33,9 @@ Demo / MVP
 
 Languages:
 
-─ Python (strong project experience + AI experimentation)
-─ JavaScript (project experience)
-─ Java (basic)
+- Python (strong project experience + AI experimentation)
+- JavaScript (project experience)
+- Java (basic)
 
 
 ## SKILLS:
