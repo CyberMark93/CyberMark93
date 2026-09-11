@@ -54,5 +54,5 @@ Piattaforma di tracciamento e risoluzione conflitti documentali per flussi di im
 ---
 
 - **Location:** Italia
-- **LinkedIn:** [Il tuo profilo LinkedIn](https://www.linkedin.com/in/tuo-profilo)
+- **LinkedIn:** [https://www.linkedin.com/in/tuo-profilo](https://www.linkedin.com/in/marco-negro-187b89383/))
 - **Email:** ilnegher93@gmail.com
