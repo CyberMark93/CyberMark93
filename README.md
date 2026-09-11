@@ -52,7 +52,9 @@ Software / AI Engineering:
 MVP Backoffice / prototyping (mockup) experience: Authentication (basic) + Authorization & RBAC (basic)
 
 
-#### 🤖 Local Multi-Agent RAG System
+
+
+#### PERSONAL PROJECT: 🤖 Local Multi-Agent RAG System
 - 100% local, privacy-first RAG assistant over a personal knowledge base — zero cloud, zero API cost.
 - **Engineering highlights:** multi-agent orchestration (CrewAI), pre-retrieval RAG (ChromaDB), local LLMs (Ollama), Docker security hardening (read-only mounts, network isolation, prompt-injection filters), CPU-budget constraints.
 - **Tech stack:** Python, FastAPI, CrewAI, ChromaDB, Ollama, Docker.
