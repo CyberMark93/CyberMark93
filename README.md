@@ -1,62 +1,79 @@
 # Hi, I'm Marco 👋 
 
 AI Developer | 2nd-year ITS student
-(With hands-on experience turning problem into an MVP solutions).
+Hands-on experience turning problems into working MVPs.
 
-- Machine Learning (project experimentation)
-- Deep Learning (project experimentation)
+- Machine Learning (project-based experimentation)
+- Deep Learning (project-based experimentation)
 
-AI + system design
+AI engineering + Modular System Design
 
 Requirements
     ↓
-Data analysis/organization/modeling & dashboard development
+Data analysis / organization / modeling 
     ↓
-Modular System Architecture Design
+Modular system architecture
     ↓
-UI/UX  (Design & Frontend implementation)
+UI/UX  design + frontend implementation
     ↓
-Structured demo / MVP Prototype 
+Integration / validation   
+    ↓
+Demo / MVP
 
-Stack: 
+### Technical Stack:
+
+**Environment**
 - Windows (advanced)
-- Docker (Intermediate)
-- Git (Intermediate)
+- Linux / Bash (basic)
+
+**Tools & Infrastructure**
+- Docker (intermediate)
+- Git (intermediate)
 - PostgreSQL (basic)
-- REST API (basic)
+- REST APIs (basic)
  
 Languages:
-├── Python — advanced + AI experimentation
-├── Js — project experience
+├── Python — strong project experience + AI experimentation
+├── JavaScript — project experience
 └── Java — basic
 
 **SKILLS:**
 
 Software / AI Engineering:
-AI workflow / assisted development
-LLM integration
-RAG architecture
-Structured prompting
-Agentic systems
-Local LLM experimentation
 
-MVP Backoffice development / prototyping (mockup) experience: 
+- LLM integration
+- RAG architecture
+- Agentic systems experimentation
+- Local LLM experimentation
+- Structured prompting
+- AI-assisted software development
+
+
+
+MVP Backoffice / prototyping (mockup) experience: 
 Authentication (basic) + Authorization & RBAC (basic)
 
 
 ---
 
-### 📂 **STAGE: da 0 -- a --> MVP  (Full Lifecycle da SOLO)**
+### 📂 INTERNSHIP PROJECTS:  From Requirements → MVP
+Independently developed these projects from requirements to MVP prototypes.**
 
 #### ⚽ [Backoffice Management System](https://github.com/CyberMark93/backoffice_calcio)
-Piattaforma di gestione e controllo accessi per strutture e tornei sportivi.
-- **Engineering Highlights:** Architettura modulare con gestione avanzata dei permessi utente (RBAC), implementazione + modalità Demo integrata.
-- **Tech Stack:** Vanilla JS, CSS, LocalStorage State Management.
+- Management and access-control platform for football facilities and tournaments.
+
+- Engineering Highlights: Modular architecture, role-based access control (RBAC), and integrated Demo Mode.
+
+- Tech Stack: Vanilla JavaScript, HTML, CSS, LocalStorage.
+
 
 #### 📦 [Software Deterministico Doganale - Import Hub](https://github.com/CyberMark93/backoffice-software_deterministico_doganale)
-Piattaforma di tracciamento e risoluzione conflitti documentali per flussi di importazione doganale.
-- **Engineering Highlights:** Engine JS per il parsing di PDF multilivello (Invoice, Packing List, HAWB), sistema di tracciamento visivo dell'origine dei dati con matrice di riconciliazione delle anomalie e flusso di export isolato.
-- **Tech Stack:** JS Engine, PDF.js integration, Responsive Multi-Column UI.
+- Customs import backoffice for document tracking and conflict resolution.
+
+- Engineering Highlights: JavaScript document-processing engine for multi-document PDF parsing (Invoice, Packing List, HAWB, ...), data traceability, anomaly reconciliation, and isolated export flow.
+
+- Tech Stack: Vanilla JavaScript, HTML, CSS, PDF.js, LocalStorage.
+- Prototype: Client-side application with responsive multi-column UI.
 
 ---
 
