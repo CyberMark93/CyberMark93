@@ -37,11 +37,11 @@ Demo / MVP
 
 Languages:
 
-```
+
 ├── Python — strong project experience + AI experimentation
 ├── JavaScript — project experience
 └── Java — basic
-```
+
 
 ## SKILLS:
 
@@ -60,7 +60,7 @@ MVP Backoffice / prototyping (mockup) experience: Authentication (basic) + Autho
 
 ## 📂 INTERNSHIP PROJECTS: From Requirements → MVP
 
-Independently developed these projects from requirements to MVP prototypes.\*\*
+Independently developed these projects from requirements to MVP prototypes.
 
 ### ⚽ \[Backoffice Management System\](https://github.com/CyberMark93/backoffice\_calcio)
 
@@ -78,5 +78,5 @@ Independently developed these projects from requirements to MVP prototypes.\*\*
 ## ---
 
 - Location: Italia
-- LinkedIn: \[https://www.linkedin.com/in/marco-negro-187b89383/\]
+- LinkedIn: [https://www.linkedin.com/in/marco-negro-187b89383/]
 - Email: ilnegher93@gmail.com
